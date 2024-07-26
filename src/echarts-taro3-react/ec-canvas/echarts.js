@@ -215,7 +215,7 @@
   //                 supportsPassive = true;
   //             }
   //         });
-  //         window.addEventListener('testPassive', function() {}, opts);
+  //         window.addEventListener?.('testPassive', function() {}, opts);
   //     } catch (e) {
   //     }
   //     return supportsPassive;
